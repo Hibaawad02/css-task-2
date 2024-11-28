@@ -1,0 +1,19 @@
+.head{
+    text-align: center;
+}
+
+
+
+.service{
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+i{
+    background-color: yellow;
+    color: white;
+}
+
+.clear{
+    clear: both;
+}
